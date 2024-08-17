@@ -1,1 +1,1 @@
-"# Travel" 
+This project involves creating a responsive travel website using HTML and CSS, designed to provide users with a visually appealing and seamless browsing experience. The website features a captivating homepage, detailed destination pages, a gallery showcasing travel spots, and a section dedicated to travel packages. 
